@@ -24,3 +24,12 @@
   - 
 
 
+
+
+
+
+## HASH TABLE
+- ![image](https://github.com/Lai03/DSA-Lecture4-LinkedList/assets/123115328/c023da88-9050-4038-a07e-3c30e4c9e879)
+- Curve fitting
+
+
